@@ -8,7 +8,8 @@ _What is on Github?_
 
 _What is on Moodle?_
 - Weekly announcements
-- Details about assessments
+- Details about assessment
+- Notes on academic conduct, how to come prepared for class, and ways to get support
 - Assessment submission
 
 ## Course Summary
