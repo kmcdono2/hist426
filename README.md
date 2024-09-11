@@ -52,5 +52,5 @@ One 4,500-5,500 word essay = 100% of grade.
 
 ## Weekly Schedule with Activities and Readings
 
-TBC
+
 
